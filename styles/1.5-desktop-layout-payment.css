@@ -1,0 +1,989 @@
+html {
+  width: auto;
+	/* font-size:62.5%; */
+}
+@media (max-width: 4500px) {
+  html {
+    font-size:75%;
+  }
+}
+@media (max-width: 2000px) {
+  html {
+    font-size:60%;
+  }
+}
+@media (max-width: 1900px) {
+  html {
+    font-size:40%;
+  }
+}
+@media (max-width: 300px) {
+  html {
+    font-size:25%;
+  }
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-layout-Fga {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre {
+  width: 100%;
+  height: 95.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii {
+  box-sizing: border-box;
+  padding: 0.2rem 16rem;
+  width: 192.0806rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.0098rem;
+  top: 5rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.0599999987);
+  background-color: #ffffff;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn {
+  margin-right: 33.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .image-2-YBp {
+  margin-right: 1rem;
+  width: 4.6rem;
+  height: 4.6rem;
+  position: relative;
+  background-size: 136.915% 100%;
+  background-position: -0.7569rem 0;
+  background-image: url('REPLACE_IMAGE:ee2b50aa0a3148a7ba50f13bded550e94f277436');
+  border-radius: 100rem;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt {
+  margin: 1.724rem 0rem 1.724rem 0rem;
+  height: calc(100% - 3.448rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-kBQ {
+  margin: 0rem 0.063rem 0rem 0rem;
+  width: 0.88rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-PVG {
+  margin: 0.016rem 0.223rem 0rem 0rem;
+  width: 0.96rem;
+  height: 1.136rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-TEE {
+  margin: 0rem 0.224rem 0rem 0rem;
+  width: 0.912rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-7pa {
+  margin: 0rem 0.224rem 0rem 0rem;
+  width: 0.912rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-CLE {
+  margin: 0rem 0.224rem 0rem 0rem;
+  width: 0.912rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-hXt {
+  margin: 0rem 0.055rem 0rem 0rem;
+  width: 0.88rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-98z {
+  margin: 0rem 0.48rem 0rem 0rem;
+  width: 1.024rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-zvJ {
+  margin: 0rem 0.177rem 0rem 0rem;
+  width: 0.848rem;
+  height: 1.152rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-Gsp {
+  margin: 0rem 0.175rem 0rem 0rem;
+  width: 0.72rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-PBk {
+  margin: 0rem 0.144rem 0rem 0rem;
+  width: 0.848rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-teJ {
+  margin: 0rem 0.223rem 0rem 0rem;
+  width: 1.072rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-N3g {
+  margin: 0rem 0.175rem 0rem 0rem;
+  width: 0.72rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2581-1Sn .sermed-Ayt .vector-F7U {
+  margin-top: 0rem;
+  width: 0.904rem;
+  height: 1.12rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 {
+  margin: 0.1rem 13.4rem 0rem 0rem;
+  width: 86.5rem;
+  height: 4.5rem;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG {
+  width: 66.5rem;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 3rem;
+  align-items: center;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-BBU {
+  width: 5rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-BBU .frame-1353-tbg {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.95rem 0;
+  width: 100%;
+  height: 4.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-rB8 {
+  width: 7.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border-radius: 0 0.8rem 0 0;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-rB8 .frame-1353-PB4 {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.95rem 0;
+  width: 100%;
+  height: 4.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-BMp {
+  width: 4.2rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-BMp .frame-1353-5xz {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.95rem 0;
+  width: 100%;
+  height: 4.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-sdx {
+  width: 12.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-sdx .frame-1353-QNz {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.95rem 0;
+  width: 100%;
+  height: 4.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-nuL {
+  width: 4.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-nuL .frame-1353-Vok {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.95rem 0;
+  width: 100%;
+  height: 4.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-Knn {
+  width: 7.1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-Knn .frame-1353-pDk {
+  box-sizing: border-box;
+  padding: 0.95rem 0;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #14abb5;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-Knn .rectangle-778-6SA {
+  width: 100%;
+  height: 0.3rem;
+  background-color: #14abb5;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-ByQ {
+  width: 6.9rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .tab-example-light-desktop-JV4 .tabs-bDG .desktop-tab-ByQ .frame-1353-EAz {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.95rem 0;
+  width: 100%;
+  height: 4.1rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2580-38S {
+  margin: 0.8rem 0;
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2580-38S .icon-iEa {
+  margin-right: 2.3rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2580-38S .basket-Ren {
+  width: 3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2580-38S .basket-Ren .icon-AcN {
+  width: 1.6rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 0.4rem;
+  top: 0.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-primary-eii .frame-2580-38S .basket-Ren .frame-28-17C {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 1rem;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #14abb5;
+  border-radius: 10rem;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-secondary-62A {
+  box-sizing: border-box;
+  padding: 1.4rem 16.1rem 1.4rem 114.7rem;
+  width: 191.9rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: #f9fafb;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-secondary-62A .frame-2562-vWz {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-secondary-62A .frame-2562-vWz .text-button-FZG {
+  margin-right: 0.75rem;
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.8rem;
+  height: 100%;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2857142857;
+  color: #14abb5;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-secondary-62A .frame-2562-vWz .clinicasermedslpgmailcom-eLW {
+  margin-right: 3.9rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #18181b;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-secondary-62A .frame-2562-vWz .item-8-800-550-71-76-JR4 {
+  margin-right: 2.95rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #18181b;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-secondary-62A .frame-2562-vWz .frame-2486-W1L {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-secondary-62A .frame-2562-vWz .frame-2486-W1L .text-Exv {
+  margin-right: 1rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #14abb5;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .header-secondary-62A .frame-2562-vWz .frame-2486-W1L .text-xP8 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #6b7280;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .text-S3Q {
+  width: 100.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 14rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1111111111;
+  color: #111827;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .text-DiN {
+  width: 37.9rem;
+  height: 4rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 48.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.1111111111;
+  color: #111827;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .frame-2615-TMp {
+  box-sizing: border-box;
+  padding: 2.12rem 2rem 0rem 2rem;
+  width: 65.4rem;
+  height: 22.8rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 20rem;
+  box-shadow: 0 0 1.6rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .frame-2615-TMp .frame-2611-46i {
+  width: 100%;
+  height: 21.08rem;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .frame-2615-TMp .frame-2611-46i .coin-hand-ZpA {
+  margin: 0rem 0rem 1.12rem 0.236rem;
+  width: 1.9274rem;
+  height: 2.16rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .frame-2615-TMp .frame-2611-46i .text-c1k {
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  color: #34d399;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .frame-2615-TMp .frame-2611-46i .text-VrE {
+  max-width: 61.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt {
+  width: 132.8rem;
+  height: 35.2rem;
+  position: absolute;
+  left: 16.1rem;
+  top: 54.8rem;
+  display: flex;
+  align-items: flex-start;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2616-zRc {
+  margin-right: 2rem;
+  box-sizing: border-box;
+  padding: 2rem 2rem 0rem 2rem;
+  width: 65.4rem;
+  height: 100%;
+  box-shadow: 0 0 1.6rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2616-zRc .frame-2611-RG2 {
+  box-sizing: border-box;
+  padding-top: 0.5rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2616-zRc .frame-2611-RG2 .icon-outline-credit-card-W2a {
+  margin: 0rem 0rem 1.5rem 0.3rem;
+  width: 1.8rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2616-zRc .frame-2611-RG2 .text-95Y {
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  color: #f472b6;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2616-zRc .frame-2611-RG2 .text-eY6 {
+  max-width: 61.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2617-4ri {
+  box-sizing: border-box;
+  padding: 2rem 2rem 0rem 2rem;
+  width: 65.4rem;
+  height: 23.2rem;
+  box-shadow: 0 0 1.6rem rgba(0, 0, 0, 0.0799999982);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2617-4ri .frame-2611-LZL {
+  width: 100%;
+  height: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2617-4ri .frame-2611-LZL .user-profile-check-EPp {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2617-4ri .frame-2611-LZL .text-WML {
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  color: #fb923c;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .auto-group-yt9c-jre .auto-group-swer-JHt .frame-2617-4ri .frame-2611-LZL .text-znJ {
+  max-width: 61.4rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS {
+  box-sizing: border-box;
+  padding: 4rem 16rem 5.9rem 16rem;
+  width: 100%;
+  height: 24.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #f3f4f6;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca {
+  margin-right: 38.15rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2581-Pxr {
+  margin: 0rem 5.6rem 10.4rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2581-Pxr .image-2-rrS {
+  margin-right: 1rem;
+  width: 4.6rem;
+  height: 4.6rem;
+  position: relative;
+  background-size: 136.915% 100%;
+  background-position: -0.7569rem 0;
+  background-image: url('REPLACE_IMAGE:ee2b50aa0a3148a7ba50f13bded550e94f277436');
+  border-radius: 100rem;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2581-Pxr .sermed-SJr {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #006f79;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ {
+  box-sizing: border-box;
+  padding-right: 3.95rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2589-PNW {
+  margin-right: 3.6rem;
+  width: 13.8rem;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2589-PNW .sermed-sHg {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #18181b;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2589-PNW .item--AGn {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2589-PNW .auto-group-xrmt-KJ6 {
+  margin-left: 0.1rem;
+  width: 9.1rem;
+  height: 5.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2589-PNW .auto-group-xrmt-KJ6 .item--dZg {
+  width: 8.3rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2589-PNW .auto-group-xrmt-KJ6 .item--DXt {
+  width: 9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 3.2rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2589-PNW .auto-group-xrmt-KJ6 .pointing-hand-2VL {
+  width: 1.7723rem;
+  height: 2rem;
+  position: absolute;
+  left: 7.2139rem;
+  top: 1.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2590-Fst {
+  width: 18.4rem;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2590-Fst .item--o8i {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #18181b;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .auto-group-dkir-fhQ .frame-2590-Fst .item--3ok {
+  margin-left: 0.7rem;
+  max-width: 17.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .frame-2591-aSJ {
+  width: 14.6rem;
+  height: 100%;
+  row-gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .frame-2591-aSJ .item--6Qe {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #18181b;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .frame-2591-aSJ .babor-skinovage-P8r {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .frame-2591-aSJ .christina-4Vt {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .frame-2591-aSJ .item--aUE {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #14abb5;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2594-Vca .frame-2593-Lf8 .frame-2591-aSJ .item--3ci {
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY {
+  margin-bottom: 8.4rem;
+  height: 6.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2587-Vt2 {
+  margin-right: 4.4rem;
+  width: 24.1rem;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2587-Vt2 .item-8-800-550-71-76-n6S {
+  margin-bottom: 0.2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #18181b;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2587-Vt2 .item--G1c {
+  width: 100%;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA {
+  width: 21.9rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA .clinicasermedslpgmailcom-17c {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.625;
+  color: #18181b;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA .frame-2586-6er {
+  margin-right: 2.6rem;
+  width: calc(100% - 2.6rem);
+  height: 3rem;
+  display: flex;
+  align-items: center;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA .frame-2586-6er .frame-2584-ZHY {
+  margin-right: 2.15rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA .frame-2586-6er .frame-2584-ZHY .facebook-tqc {
+  margin-right: 0.55rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA .frame-2586-6er .frame-2584-ZHY .facebook-meW {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA .frame-2586-6er .frame-2585-FZg {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA .frame-2586-6er .frame-2585-FZg .instagramm-o5Q {
+  margin-right: 0.6rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-layout-Fga .futer-FCS .frame-2592-2jY .frame-2591-4iA .frame-2586-6er .frame-2585-FZg .instagram-tsY {
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #4b5563;
+  font-family: PT Root UI, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
